@@ -4,4 +4,4 @@
 - 🔎 I’m interested in front end development, great UX/UI, accessibility, and too many things to list here
 - ✏️ I’m currently revising the fundamentals - React, HTML, CSS ...
 - 🛠️ I'm currently working on: an investment portfolio contribution calculator
-- ✉️ I can be reached on Linkedin: https://www.linkedin.com/in/kei-kaloustian/
+- 👨‍💼 I can be reached on Linkedin: https://www.linkedin.com/in/kei-kaloustian/
