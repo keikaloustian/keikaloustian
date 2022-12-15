@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kei Kaloustian
-  - @lighthouse-labs Full-stack Web Development Grad
-  - Previously a Civil Engineer-in-Training
+  - Lighthouse Labs Full-stack Web Development Grad
+  - Former Civil Engineer-in-Training
 - 🔎 I’m interested in front end development, great UX/UI, accessibility, and too many things to list here
 - ✏️ I’m currently revising the fundamentals - React, HTML, CSS ...
 - 🛠️ I'm currently working on: an investment portfolio contribution calculator
