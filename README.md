@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kei Kaloustian
+- 👋 Hi, I’m Kei (pronounced "K")
   - Lighthouse Labs Full-stack Web Development Grad
   - Former Civil Engineer-in-Training
 - 🔎 Interested in front end development, great UX/UI, accessibility, and too many things to list here
 - ✏️ Currently learning: revising the fundamentals - React, HTML, CSS ...
-- 🛠️ Currently working on: an investment allocation calculator
+- 🛠️ Currently working on: building and deploying an investment allocation calculator
 - 👨‍💼 I can be reached on Linkedin: https://www.linkedin.com/in/kei-kaloustian/
