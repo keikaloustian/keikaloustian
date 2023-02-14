@@ -4,5 +4,5 @@
 🔎 Interested in: usability, great UX/UI, accessibility, maintainability...   
 ✏️ Currently learning: TBA  
 🛠️ Currently working on: TBA  
-📖 Currently reading: TBA  
+📖 Currently reading: _Grokking Algorithms: An illustrated guide for programmers and other curious people_ by Aditya Bargava  
 👨‍💼 I can be reached on Linkedin: https://www.linkedin.com/in/kei-kaloustian/
