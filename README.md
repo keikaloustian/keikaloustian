@@ -3,6 +3,6 @@
       - Former Civil Engineer-in-Training  
 🔎 Interested in: usability, great UX/UI, accessibility, maintainability, scalability and too many things to list here  
 ✏️ Currently learning: TBA  
-🛠️ Currently working on: TBA
-📖 Currently reading: _Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability_ by Steve Krug  
+🛠️ Currently working on: TBA  
+📖 Currently reading: TBA  
 👨‍💼 I can be reached on Linkedin: https://www.linkedin.com/in/kei-kaloustian/
