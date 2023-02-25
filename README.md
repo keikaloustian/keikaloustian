@@ -2,7 +2,7 @@
       - Lighthouse Labs Full-stack Web Development Grad  
       - Former Civil Engineer-in-Training  
 🔎 Curious about: usability, great UI/UX, accessibility, maintainability...   
-✏️ Currently learning: TBA  
-🛠️ Currently working on: TBA  
+✏️ Currently learning: Tailwind  
+🛠️ Currently working on: A landing page for my side business  
 📖 Currently reading: _Grokking Algorithms: An illustrated guide for programmers and other curious people_ by Aditya Bargava  
 👨‍💼 I can be reached on Linkedin: https://www.linkedin.com/in/kei-kaloustian/
