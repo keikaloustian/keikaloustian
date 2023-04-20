@@ -1,7 +1,7 @@
-👋 Hi, my name is Kei (pronounced "K")  
+👋 Hi, my name is Kei  
       - Lighthouse Labs Full-stack Web Development Grad  
       - Former Civil Engineer-in-Training  
-🔎 Curious about: usability, accessibility, UI/UX, maintainability...   
+🔎 Curious about: usability, accessibility, maintainability...   
 ✏️ Currently learning: TypeScript  
 🛠️ Currently working on: A landing page for my side business  
 📖 Currently reading: _Grokking Algorithms: An illustrated guide for programmers and other curious people_ by Aditya Bargava  
