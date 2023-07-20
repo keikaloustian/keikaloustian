@@ -1,4 +1,4 @@
-### 👋 Hi, my name is Kei
+## 👋 Hi, my name is Kei
   
 
 💻 Lighthouse Labs Full-stack Web Development Grad (Dec 2022)  
