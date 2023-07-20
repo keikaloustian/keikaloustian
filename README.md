@@ -1,4 +1,4 @@
-### <div align="center">👋 Hi, my name is Kei</div>  
+### 👋 Hi, my name is Kei
   
 
 💻 Lighthouse Labs Full-stack Web Development Grad (Dec 2022)  
@@ -14,9 +14,7 @@
   
 
 📖 Currently reading: Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Bargava  
-  
-
-<br/>  
+   
 
 
 ## My Skill Set  
