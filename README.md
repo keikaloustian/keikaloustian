@@ -15,12 +15,9 @@
 
 📖 Currently reading: Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Bargava  
    
-
+<br/>  
 
 ## My Skill Set  
-
-
-
 
 ### Languages  
 <div align="left">  
