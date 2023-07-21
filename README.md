@@ -1,7 +1,7 @@
 ## 👋 Hi, my name is Kei
   
 
-💻 Lighthouse Labs Full-stack Web Development Grad (Dec 2022)  
+💻 Lighthouse Labs Full Stack Web Development Grad (Dec 2022)  
   
 
 👷 Former Civil Engineer-in-Training  
@@ -13,7 +13,7 @@
 🛠️ Currently working on: my portfolio V1  
   
 
-📖 Currently reading: Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Bargava  
+📖 Currently reading: *Grokking Algorithms: An illustrated guide for programmers and other curious people* by Aditya Bargava  
    
 <br/>  
 
