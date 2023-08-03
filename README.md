@@ -81,7 +81,7 @@
 <a href="https://github.com/keikaloustian" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/kei-kaloustian" target="_blank">
+<a href="https://www.linkedin.com/in/keikaloustian/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@kei.kaloustian" target="_blank">
