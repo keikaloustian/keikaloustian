@@ -4,13 +4,13 @@
 💻 Lighthouse Labs Full Stack Web Development Grad (Dec 2022)  
   
 
-👷 Former Civil Engineer-in-Training  
+👷 Former Civil Engineer  
   
 
 🔎 Looking for entry level full-stack / frontend developer positions  
   
 
-🛠️ Currently working on: my portfolio V1  
+🛠️ Currently working on: websites for businesses  
   
 
 📖 Currently reading: *Grokking Algorithms: An illustrated guide for programmers and other curious people* by Aditya Bargava  
