@@ -10,7 +10,7 @@
 🔎 Looking for entry level full-stack / frontend developer positions  
   
 
-🛠️ Currently working on: websites for businesses  
+🛠️ Currently working on: Wordpress websites for businesses  
   
 
 📖 Currently reading: *Grokking Algorithms: An illustrated guide for programmers and other curious people* by Aditya Bargava  
