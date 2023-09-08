@@ -12,8 +12,6 @@
 
 🛠️ Currently working on: Wordpress websites for businesses  
   
-
-📖 Currently reading: *Grokking Algorithms: An illustrated guide for programmers and other curious people* by Aditya Bargava  
    
 <br/>  
 
