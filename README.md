@@ -75,6 +75,7 @@
 ### CMS  
 <div align="left">  
   <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+  <a href="https://shopify.github.io/liquid/" target="_blank">Liquid</a>  
 </div>
 
 
