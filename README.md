@@ -10,7 +10,7 @@
 🔎 Looking for entry level full-stack / frontend developer positions  
   
 
-🛠️ Currently working on: Wordpress websites for businesses  
+🛠️ Currently working on: a Wordpress website for a realtor friend  
   
    
 <br/>  
