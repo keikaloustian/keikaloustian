@@ -4,13 +4,10 @@
 💻 Lighthouse Labs Full Stack Web Development Grad (Dec 2022)  
   
 
-👷 Former Civil Engineer  
+👷 Civil Engineer  
   
 
-🔎 Looking for entry level full-stack / frontend developer positions  
-  
-
-🛠️ Currently working on: a Wordpress website for a realtor friend, learning basic Python  
+🛠️ Currently working on: 
   
    
 <br/>  
